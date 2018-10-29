@@ -1,5 +1,5 @@
 ## ACE - conteúdos das aulas de Sistemas Digitais Interactivos (SDI)
-Nesta página poderão aceder aos conteúdos das aulas bem como a outros conteúdos disponíveis na <a href="https://github.com/p1nh0/ACE-SDI/wiki" target="_blank"> wiki</a> desta página.
+Nesta página poderão aceder aos conteúdos das aulas bem como a outros conteúdos disponíveis na <a href="https://github.com/p1nh0/ACE-SDI/wiki"> wiki</a> desta página.
 
 ## Conteúdos das aulas
 
