@@ -15,5 +15,9 @@ Nesta página poderão aceder aos conteúdos das aulas bem como a outros conteú
 ### Aula 4 - Introdução ao Jitter (vídeo)
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/p1nh0/ACE-SDI/tree/master/aulas/aula_04" target="_blank">Download</a>
 
+### Aula 5 - Introdução ao Arduino (physical computing)
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/p1nh0/ACE-SDI/tree/master/aulas/aula_05" target="_blank">Download</a>
+
+
 ### Ajuda/Contacto
 Se tiverem alguma dúvida podem-me contactar através do seguinte email: tiago.a.s.angelo(arroba)gmail.com
