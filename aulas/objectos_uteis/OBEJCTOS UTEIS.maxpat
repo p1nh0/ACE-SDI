@@ -32,6 +32,22 @@
 					"fontname" : "Arial",
 					"fontsize" : 10.0,
 					"frgb" : 0.0,
+					"id" : "obj-24",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 110.52774, 261.0, 582.0, 29.0 ],
+					"presentation_rect" : [ 109.102592, 263.450104, 0.0, 0.0 ],
+					"text" : "descarregar biblioteca: https://github.com/CNMAT/CNMAT-Externs/releases/download/v1.0.4/CNMAT_Externals-Max-OSX-v1.0.4-3-g6f0208d-master.zip"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 10.0,
+					"frgb" : 0.0,
 					"id" : "obj-23",
 					"maxclass" : "comment",
 					"numinlets" : 1,
@@ -126,7 +142,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 118.0, 243.0, 150.0, 18.0 ],
+					"patching_rect" : [ 110.52774, 243.0, 150.0, 18.0 ],
 					"text" : "http://opensoundcontrol.org"
 				}
 
