@@ -1,0 +1,17 @@
+#N canvas 342 81 640 480 10;
+#X text 15 15 MIDI to Frequency;
+#X text 30 192 frequência;
+#X text 30 150 MIDI pitch;
+#X obj 180 255 dac~ 1 2;
+#X obj 180 195 cycle~;
+#X obj 180 150 mtof;
+#X obj 53 48 keyboard 16 80 4 2 0 0 empty empty;
+#X text 510 60 objecto chamado 'keyboard';
+#X floatatom 107 152 5 0 0 0 - - - 12;
+#X floatatom 107 195 5 0 0 0 - - - 12;
+#X connect 4 0 3 0;
+#X connect 4 0 3 1;
+#X connect 5 0 4 0;
+#X connect 5 0 9 0;
+#X connect 6 0 5 0;
+#X connect 6 0 8 0;

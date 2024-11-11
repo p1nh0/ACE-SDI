@@ -1,0 +1,7 @@
+#N canvas 500 290 210 190 10;
+#X obj 38 43 inlet;
+#X msg 38 78 hello.maxpat é uma abstracção. "maxpat" significa Max Patcher;
+#X obj 38 145 print hellomax.maxpat;
+#X obj 101 47 comment 0 10 Menlo empty 0 0 0 0 0 255 255 255 0 0 HELLO MAX;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
