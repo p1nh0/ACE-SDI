@@ -1,0 +1,12 @@
+#N canvas 524 148 640 480 10;
+#X floatatom 148 76 8 0 0 0 - - - 0;
+#X floatatom 86 76 8 0 0 0 - - - 0;
+#X floatatom 28 76 8 0 0 0 - - - 0;
+#X obj 63 136 makenote;
+#X obj 63 181 noteout;
+#X text 24 19 EXERCÍCIO: enviar MIDI para o Ableton Live;
+#X connect 0 0 3 2;
+#X connect 1 0 3 1;
+#X connect 2 0 3 0;
+#X connect 3 0 4 0;
+#X connect 3 1 4 1;
